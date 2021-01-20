@@ -1,0 +1,2 @@
+# MySpringCloudConfig
+springCloud配置文件存放路径
